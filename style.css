@@ -59,5 +59,14 @@
     margin-bottom: 20px;
 }
 
+/*Regole Listing Games*/
 
+#other-games {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.ms_item-game img {
+    border-radius: 15px;
+}
 
