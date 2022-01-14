@@ -7,8 +7,7 @@
 }
 
 #header-top img {
-    width: 100px;
-    height: auto;
+    width: 5em;
     padding: 10px;
 }
 
@@ -27,6 +26,11 @@
     font-size: 15px;
 }
 
+.ms_search-icon img {
+    width: 3em;
+    padding: 10px;
+}
+
 /*Regole Jumbotron*/
 
 #jumbotron {
@@ -34,6 +38,7 @@
     height: 600px;
     background-image: url(img/jumbo-bg.png);
     position: relative;
+    margin-top: 110px;
 }
 
 .ms_content-jb {
