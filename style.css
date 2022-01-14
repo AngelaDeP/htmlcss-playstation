@@ -75,3 +75,32 @@
     border-radius: 15px;
 }
 
+/*Regole sezione Ps5*/
+
+#console-ps5 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.ms_text-console span {
+    color: rgb(64, 142, 231);
+    font-size: 13px;
+}
+
+.ms_text-console p {
+    color: rgb(92, 92, 92);
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+.ms_content-console p {
+    color: rgb(92, 92, 92);
+    font-size: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.ms_content-console button {
+    border-radius: 20px;
+    font-size: 14px;
+}
