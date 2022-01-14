@@ -119,3 +119,33 @@
     opacity: 1;
 }
 
+/*Regole sezione Gioco Consigliato*/
+
+#new-game-adv {
+    width: 100%;
+    height: 600px;
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: contain;
+    margin-top: 110px;
+}
+
+.ms_content-new-game {
+    color: #fff;
+    padding: 25px;
+}
+
+.ms_content-new-game img {
+    width: 50%;
+}
+
+.ms_content-new-game h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.ms_content-new-game button {
+    border-radius: 20px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
