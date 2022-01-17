@@ -247,8 +247,28 @@
     margin-bottom: 60px;
 }
 
+/*Regole Footer*/
 
+footer {
+    background-color: #00439C;
+    color: #fff;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
 
+footer a {
+    color: #fff;
+    text-decoration: none;
+    padding: 3px;
+}
+
+.content-footer-cr {
+    padding-top: 10px;
+}
+
+.content-footer-cr a {
+    text-decoration: underline;
+}
 
 
 /*Regole MQ*/
